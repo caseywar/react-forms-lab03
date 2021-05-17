@@ -10,7 +10,7 @@ const Article = ({ title, author, url, urlToImage }) => (
    </>
 )
 
-Controls.propTypes = {
+Article.propTypes = {
     title: PropTypes.string.isRequired,
     author: PropTypes.string.isRequired,
     url: PropTypes.string.isRequired,

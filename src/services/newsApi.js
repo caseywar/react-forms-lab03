@@ -1,5 +1,15 @@
+const API_KEY = process.env.API_KEY;
+
+// const mungeQuotes = (json) =>
+//   json.map(({ title, author, url, urlToImage }) => ({
+//     title,
+//     author,
+//     url,
+//     urlToImage
+//   }));
+
 const mungeArticles = (json) => 
-json.map(({ title, author, url }) => ({
+    json.map(({ title, author, url, urlToImage }) => ({
         title,
         author,
         url,
