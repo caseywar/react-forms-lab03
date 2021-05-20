@@ -1,7 +1,9 @@
 import React from 'react';
-import { getAllByText, render, screen, waitFor } from '@testing-library/react';
+import { render, screen, fireEvent } from '@testing-library/react';
 import userEvent from '@testing-library/user-event';
 import NewsArticles from './NewsArticles';
+import dotenv from 'dotenv';
+dotenv.config();
 
 describe('News Articles Container', () => {
     it('shows a list of quotes by topic' , async () => {
@@ -9,20 +11,19 @@ describe('News Articles Container', () => {
 
         screen.getByText('Loading...');
         
-        const ul = await screen.findByRole('list', { name: 'articles' });
+        const ul = await screen.findByRole('list');
         expect(ul).not.toBeEmptyDOMElement();
+        expect(ul).toMatchSnapshot();
 
         const input = await screen.findByLabelText('Article Name');
-        userEvent.type(input, 'topic');
+        userEvent.type(input, 'Tesla');
+        expect(input).toMatchSnapshot();
 
-        const submitButton = await screen.findAllByRole('button', {
-            name: 'find-articles',
-        })
-        userEvent.click(submitButton);
+        const submitButton = await screen.findAllByRole('button', {name: 'controls'})
+        fireEvent.click(screen.getByText('Submit'));
+        expect(submitButton).toMatchSnapshot();
 
-        return waitFor(() => {
-            const quotes = screen.getAllByAltText('- topic', { exact: false });
-            expect(articles).toHaveLength(5)
+        const article = await screen.findAllByRole('listitem', { name: 'article' })
+        expect(article).toMatchSnapshot();
         });
     });
-});
