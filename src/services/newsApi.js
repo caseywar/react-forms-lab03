@@ -16,7 +16,6 @@ export const fetchArticlesByTopic = async (articleName) => {
     const res = await fetch(`https://newsapi.org/v2/everything?q=${articleName}&apiKey=${process.env.api_key}`);
 
     const { articles } = await res.json();
-    console.log(articles, 'articles')
 
     return articles.map((article) => ({
         title: article.title,
