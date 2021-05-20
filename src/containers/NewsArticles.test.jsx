@@ -1,5 +1,5 @@
 import React from 'react';
-import { render, screen, fireEvent } from '@testing-library/react';
+import { render, screen, fireEvent, waitFor } from '@testing-library/react';
 import userEvent from '@testing-library/user-event';
 import NewsArticles from './NewsArticles';
 import dotenv from 'dotenv';
@@ -23,7 +23,8 @@ describe('News Articles Container', () => {
         fireEvent.click(screen.getByText('Submit'));
         expect(submitButton).toMatchSnapshot();
 
-        const article = await screen.findAllByRole('listitem', { name: 'article' })
-        expect(article).toMatchSnapshot();
+        await waitFor(() => {
+        const article = screen.findAllByRole('listitem', { name: 'article' })
+        expect(article).toMatchSnapshot()});
         });
     });
