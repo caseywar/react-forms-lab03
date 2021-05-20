@@ -408,4 +408,347 @@ Array [
 ]
 `;
 
-exports[`News Articles Container shows a list of quotes by topic 4`] = `Promise {}`;
+exports[`News Articles Container shows a list of quotes by topic 4`] = `
+Array [
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Tesla 'suspends' Bitcoin car purchases citing environmental impact
+    </h1>
+    <p>
+      https://www.engadget.com/about/editors/richard-lawler
+    </p>
+    <a
+      href="{url}"
+    />
+    <br />
+    <img
+      alt="Tesla 'suspends' Bitcoin car purchases citing environmental impact"
+    />
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Tesla's Powerwall+ is a higher-power battery for off-grid living
+    </h1>
+    <p>
+      https://www.engadget.com/about/editors/mariella-moon
+    </p>
+    <a
+      href="{url}"
+    />
+    <br />
+    <img
+      alt="Tesla's Powerwall+ is a higher-power battery for off-grid living"
+    />
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Elon Musk: Data recovered 'so far' shows Autopilot not enabled in Houston crash
+    </h1>
+    <p>
+      https://www.engadget.com/about/editors/mat-smith
+    </p>
+    <a
+      href="{url}"
+    />
+    <br />
+    <img
+      alt="Elon Musk: Data recovered 'so far' shows Autopilot not enabled in Houston crash"
+    />
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Tesla stops taking Bitcoin for vehicle purchases, citing environmental harm
+    </h1>
+    <p>
+      Sean O'Kane
+    </p>
+    <a
+      href="{url}"
+    />
+    <br />
+    <img
+      alt="Tesla stops taking Bitcoin for vehicle purchases, citing environmental harm"
+    />
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Tesla's Model S Plaid may pack a retractable spoiler
+    </h1>
+    <p>
+      https://www.engadget.com/about/editors/jon-fingas
+    </p>
+    <a
+      href="{url}"
+    />
+    <br />
+    <img
+      alt="Tesla's Model S Plaid may pack a retractable spoiler"
+    />
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Tesla grows 74% in the first quarter, besting expectations as its shares ease after-hours
+    </h1>
+    <p>
+      Alex Wilhelm
+    </p>
+    <a
+      href="{url}"
+    />
+    <br />
+    <img
+      alt="Tesla grows 74% in the first quarter, besting expectations as its shares ease after-hours"
+    />
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <h1>
+      No one behind the wheel in deadly Tesla crash Saturday night, say authorities
+    </h1>
+    <p>
+      Aria Alamalhodaei
+    </p>
+    <a
+      href="{url}"
+    />
+    <br />
+    <img
+      alt="No one behind the wheel in deadly Tesla crash Saturday night, say authorities"
+    />
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Tesla mulls cars tailored to China amid mounting criticisms
+    </h1>
+    <p>
+      Rita Liao
+    </p>
+    <a
+      href="{url}"
+    />
+    <br />
+    <img
+      alt="Tesla mulls cars tailored to China amid mounting criticisms"
+    />
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <h1>
+      The Morning After: Amazon cancels its 'Lord of the Rings' MMORPG
+    </h1>
+    <p>
+      https://www.engadget.com/about/editors/mat-smith
+    </p>
+    <a
+      href="{url}"
+    />
+    <br />
+    <img
+      alt="The Morning After: Amazon cancels its 'Lord of the Rings' MMORPG"
+    />
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Elon Musk is hosting Saturday Night Live and no this is not a joke
+    </h1>
+    <p>
+      Kim Lyons
+    </p>
+    <a
+      href="{url}"
+    />
+    <br />
+    <img
+      alt="Elon Musk is hosting Saturday Night Live and no this is not a joke"
+    />
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Elon Musk Tweets—and Crypto Markets Show Their Growing Pains
+    </h1>
+    <p>
+      Gregory Barber
+    </p>
+    <a
+      href="{url}"
+    />
+    <br />
+    <img
+      alt="Elon Musk Tweets—and Crypto Markets Show Their Growing Pains"
+    />
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Tesla wants to make every home a distributed power plant
+    </h1>
+    <p>
+      Aria Alamalhodaei
+    </p>
+    <a
+      href="{url}"
+    />
+    <br />
+    <img
+      alt="Tesla wants to make every home a distributed power plant"
+    />
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <h1>
+      NHTSA is investigating the driverless Tesla crash that killed two people
+    </h1>
+    <p>
+      Andrew J. Hawkins
+    </p>
+    <a
+      href="{url}"
+    />
+    <br />
+    <img
+      alt="NHTSA is investigating the driverless Tesla crash that killed two people"
+    />
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Shanghai Auto Show Disrupted by Protester Shouting 'Tesla Brakes Fail'
+    </h1>
+    <p>
+      Matt Novak
+    </p>
+    <a
+      href="{url}"
+    />
+    <br />
+    <img
+      alt="Shanghai Auto Show Disrupted by Protester Shouting 'Tesla Brakes Fail'"
+    />
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Elon Musk says Bitcoin no longer accepted for Tesla purchases
+    </h1>
+    <p>
+      Sasha Lekach
+    </p>
+    <a
+      href="{url}"
+    />
+    <br />
+    <img
+      alt="Elon Musk says Bitcoin no longer accepted for Tesla purchases"
+    />
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Tesla to start selling solar roof only with Powerwall battery
+    </h1>
+    <p>
+      Stan Schroeder
+    </p>
+    <a
+      href="{url}"
+    />
+    <br />
+    <img
+      alt="Tesla to start selling solar roof only with Powerwall battery"
+    />
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Elon Musk's 'SNL' appearance shows he's the face of EVs beyond Tesla
+    </h1>
+    <p>
+      Sasha Lekach
+    </p>
+    <a
+      href="{url}"
+    />
+    <br />
+    <img
+      alt="Elon Musk's 'SNL' appearance shows he's the face of EVs beyond Tesla"
+    />
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Tesla: Bitcoin sales, environmental credits boost profits
+    </h1>
+    <p>
+      https://www.facebook.com/bbcnews
+    </p>
+    <a
+      href="{url}"
+    />
+    <br />
+    <img
+      alt="Tesla: Bitcoin sales, environmental credits boost profits"
+    />
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Tesla sees bitcoin as important financial tool to access cash quickly
+    </h1>
+    <p>
+      Rebecca Bellan
+    </p>
+    <a
+      href="{url}"
+    />
+    <br />
+    <img
+      alt="Tesla sees bitcoin as important financial tool to access cash quickly"
+    />
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <h1>
+      ‘SNL’ Gets Ready for Elon Musk
+    </h1>
+    <p>
+      Dave Itzkoff
+    </p>
+    <a
+      href="{url}"
+    />
+    <br />
+    <img
+      alt="‘SNL’ Gets Ready for Elon Musk"
+    />
+  </li>,
+]
+`;
