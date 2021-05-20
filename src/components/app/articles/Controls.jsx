@@ -10,7 +10,7 @@ const Controls = ({ articleName, onArticleNameChange, onSubmit }) => (
                 value={articleName}
                 onChange={onArticleNameChange}
             />
-        <button aria-label="find-quotes">Submit</button>
+        <button aria-label="controls">Submit</button>
     </form>
 )
 

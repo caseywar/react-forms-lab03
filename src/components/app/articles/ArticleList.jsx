@@ -21,12 +21,12 @@ return (
 }
 
 ArticleList.propTypes = {
-    quotes: PropTypes.arrayOf(
+    articles: PropTypes.arrayOf(
         PropTypes.shape({
         title: PropTypes.string.isRequired,
-        author: PropTypes.string.isRequired,
+        author: PropTypes.string,
         url: PropTypes.string.isRequired,
-        urlToImage: PropTypes.string.isRequired,
+        urlToImage: PropTypes.string,
         })
     ).isRequired,
 }

@@ -18,34 +18,34 @@ export default class NewsArticles extends Component {
         });
     }
 
-    handleArticleNameChange = ({ target }) => {
-        this.setState({ articleName: target.value });
+    handleArticleNameChange = (e) => {
+        this.setState({ articleName: e.target.value });
     };
 
-    handleSubmit = async (event) => {
-        event.preventDefault();
+    handleSubmit = async (e) => {
+        e.preventDefault();
 
         this.setState({ loading: true });
-        const articles = await fetchArticlesByTopic(this.state.articleName);
-        this.setState({
+
+        const updatedArticles = await fetchArticlesByTopic(this.state.articleName);
+        await this.setState({
             loading: false,
-            articles,
+            articles: updatedArticles,
         });
     };
 
     render() {
-        const { loading, articles, articleName } = this.state;
 
-        if (loading) return <h1>Loading...</h1>
+        if (this.state.loading) return <h1>Loading...</h1>
 
         return (
             <>
                 <Controls 
-                    articleName={articleName}
+                    articleName={this.state.articleName}
                     onArticleNameChange={this.handleArticleNameChange}
                     onSubmit={this.handleSubmit}
                 />
-                <ArticleList articles={articles} />
+                <ArticleList articles={this.state.articles} />
             </>
         );
     }

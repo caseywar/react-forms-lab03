@@ -1,5 +1,6 @@
 import React from 'react';
+import NewsArticles from '../../containers/NewsArticles'
 
 export default function App() {
-  return <h1>Hello World</h1>;
+  return <NewsArticles />;
 }

@@ -1,33 +1,26 @@
-const API_KEY = process.env.API_KEY;
-
-// const mungeQuotes = (json) =>
-//   json.map(({ title, author, url, urlToImage }) => ({
-//     title,
-//     author,
-//     url,
-//     urlToImage
-//   }));
-
-const mungeArticles = (json) => 
-    json.map(({ title, author, url, urlToImage }) => ({
-        title,
-        author,
-        url,
-        urlToImage
-}));
-
-
 export const fetchTopArticles = async () => {
-    const res = await fetch(`https://newsapi.org/v2/top-headlines?country=us&apiKey=${API_KEY}`);
-    const json = await res.json();
-    
-    return mungeArticles(json);
+    const res = await fetch(`https://newsapi.org/v2/top-headlines?country=us&apiKey=${process.env.api_key}`);
+   
+    const { articles } = await res.json();
+
+    return articles.map((article) => ({
+        title: article.title,
+        author: article.author,
+        urlToImage: article.urlToImage,
+        url: article.url,
+    }));
 };
 
 
-export const fetchArticlesByTopic = async () => {
-    const res = await fetch(`https://newsapi.org/v2/everything?q=${search}&apiKey=${API_KEY}`);
-    const json = await res.json();
+export const fetchArticlesByTopic = async (articleName) => {
+    const res = await fetch(`https://newsapi.org/v2/everything?q=${articleName}&apiKey=${process.env.api_key}`);
 
-    return mungeArticles(json);
+    const { articles } = await res.json();
+
+    return articles.map((article) => ({
+        title: article.title,
+        author: article.author,
+        description: article.description,
+        link: article.url,
+    }));
 };
