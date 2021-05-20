@@ -1,5 +1,4 @@
 import React from 'react'
-import PropTypes from 'prop-types';
 import Article from './Article';
 
 const ArticleList = ({ articles }) => {
@@ -20,16 +19,6 @@ return (
 )
 }
 
-ArticleList.propTypes = {
-    articles: PropTypes.arrayOf(
-        PropTypes.shape({
-        title: PropTypes.string.isRequired,
-        author: PropTypes.string,
-        url: PropTypes.string.isRequired,
-        urlToImage: PropTypes.string,
-        })
-    ).isRequired,
-}
 
 export default ArticleList
 

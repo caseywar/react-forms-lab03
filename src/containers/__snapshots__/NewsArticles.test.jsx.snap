@@ -8,387 +8,395 @@ exports[`News Articles Container shows a list of quotes by topic 1`] = `
     aria-label="article"
   >
     <h1>
-      Lightfoot Says She Will Only Give 1-on-1 Interviews to Journalists of Color - NBC Chicago
+      Sen. Bernie Sanders to introduce resolution of disapproval on $735 million U.S. arms sale to Israel - The Washington Post
     </h1>
     <p>
-      NBC Chicago
+      Jacqueline Alemany
     </p>
     <a
       href="{url}"
     >
-      https://www.nbcchicago.com/news/local/chicago-politics/lightfoot-says-she-will-only-give-1-on-1-interviews-to-journalists-of-color/2514015/
+      https://www.washingtonpost.com/politics/2021/05/20/sen-bernie-sanders-introduce-resolution-disapproval-735-million-us-arms-sale-israel/
     </a>
     <br />
     <img
-      alt="Lightfoot Says She Will Only Give 1-on-1 Interviews to Journalists of Color - NBC Chicago"
-      src="https://i2.wp.com/media.nbcchicago.com/2020/08/web-lightfoot-interview-8-18.jpg?quality=85&resize=1200%2C675&strip=all&ssl=1"
+      alt="Sen. Bernie Sanders to introduce resolution of disapproval on $735 million U.S. arms sale to Israel - The Washington Post"
+      src="https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HBEUJBFJGMI6XKFHL5C53TPTMQ.jpg&w=1440"
     />
   </li>
   <li
     aria-label="article"
   >
     <h1>
-      Dow Jones Futures: Stock Market Rally Slashes Losses, Bitcoin Keeps Moving Late; Target, Facebook, Google In Buy Zones - Investor's Business Daily
+      Warriors vs. Lakers score: LeBron James' clutch 3 helps clinch No. 7 seed; Dubs host Grizzlies in play-in game - CBSSports.com
     </h1>
     <p>
-      Investor's Business Daily
+      Sam Quinn
     </p>
     <a
       href="{url}"
     >
-      https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-bitcoin-slash-losses-target-facebook-google-in-buy-zones/
+      https://www.cbssports.com/nba/news/warriors-vs-lakers-score-lebron-james-clutch-3-helps-clinch-no-7-seed-dubs-host-grizzlies-in-play-in-game/live/
     </a>
     <br />
     <img
-      alt="Dow Jones Futures: Stock Market Rally Slashes Losses, Bitcoin Keeps Moving Late; Target, Facebook, Google In Buy Zones - Investor's Business Daily"
-      src="https://www.investors.com/wp-content/uploads/2019/08/stock-bounce-back-01-adobe.jpg"
+      alt="Warriors vs. Lakers score: LeBron James' clutch 3 helps clinch No. 7 seed; Dubs host Grizzlies in play-in game - CBSSports.com"
+      src="https://sportshub.cbsistatic.com/i/r/2021/05/20/d280dd30-b43d-44d0-a444-b8aa896b3e3d/thumbnail/1200x675/21efd1e58dce943801b4612726bce73b/untitled-design-2021-05-19t232108-580.png"
     />
   </li>
   <li
     aria-label="article"
   >
     <h1>
-      Fauci expects COVID-19 vaccines for kids in late-2021, sees need for booster shot - Reuters
+      Massive Northern California explosion caught on video caused by three kids playing with fire, officials say - NBC News
     </h1>
     <p>
-      Amruta Khandekar,Trisha Roy
+      Elisha Fieldstadt
     </p>
     <a
       href="{url}"
     >
-      https://www.reuters.com/business/healthcare-pharmaceuticals/fauci-expects-covid-19-vaccines-kids-late-2021-sees-need-booster-shot-2021-05-19/
+      https://www.nbcnews.com/news/us-news/massive-northern-california-explosion-caught-video-caused-three-kids-playing-n1268005
     </a>
     <br />
     <img
-      alt="Fauci expects COVID-19 vaccines for kids in late-2021, sees need for booster shot - Reuters"
-      src="https://www.reuters.com/resizer/jQdS8kPQDessOCVU38cviVbXZP8=/1200x628/smart/cloudfront-us-east-2.images.arcpublishing.com/reuters/B4BP6W3OPRMAXOOWRHEEEHLTBA.jpg"
+      alt="Massive Northern California explosion caught on video caused by three kids playing with fire, officials say - NBC News"
+      src="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_20/3476308/210520-martinez-fire-mb-1352.jpg"
     />
   </li>
   <li
     aria-label="article"
   >
     <h1>
-      The Case of Long Island’s Disappearing Brood X Cicadas - The New York Times
+      BBC apologizes after report finds it used deceitful methods to secure Diana interview - CNN 
     </h1>
     <p>
-      Cara Giaimo
+      Zamira Rahim and Niamh Kennedy, CNN Business
     </p>
     <a
       href="{url}"
     >
-      https://www.nytimes.com/2021/05/19/science/brood-x-cicadas.html
+      https://www.cnn.com/2021/05/20/media/bbc-martin-bashir-diana-report-scli-intl/index.html
     </a>
     <br />
     <img
-      alt="The Case of Long Island’s Disappearing Brood X Cicadas - The New York Times"
-      src="https://static01.nyt.com/images/2021/05/19/science/1SCI-MISSINGCICADAS3/1SCI-MISSINGCICADAS3-facebookJumbo.jpg"
+      alt="BBC apologizes after report finds it used deceitful methods to secure Diana interview - CNN "
+      src="https://cdn.cnn.com/cnnnext/dam/assets/210515113237-restricted-file-princess-diana-martin-bashir-1995-super-tease.jpg"
     />
   </li>
   <li
     aria-label="article"
   >
     <h1>
-      Draymond Green on Warriors vs. Lakers, Steph Curry's MVP season & LeBron James | The Jump - ESPN
+      Google is opening its first physical retail store this summer in NYC - The Verge
+    </h1>
+    <p>
+      Chaim Gartenberg
+    </p>
+    <a
+      href="{url}"
+    >
+      https://www.theverge.com/2021/5/20/22445472/google-first-physical-retail-store-chelsea-nyc-summer-2021
+    </a>
+    <br />
+    <img
+      alt="Google is opening its first physical retail store this summer in NYC - The Verge"
+      src="https://cdn.vox-cdn.com/thumbor/OC0849UgWOiKhHCeqWe5DAtmqZg=/0x20:1000x544/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22527842/Photoshop_Blade_Sign.max_1000x1000.jpg"
+    />
+  </li>
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Your Chromebook and Android phone are getting a new tight integration - Android Police
     </h1>
     <p />
     <a
       href="{url}"
     >
-      https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9OF9kUkNYZXFGaXPSAQA?oc=5
+      https://www.androidpolice.com/2021/05/20/your-chromebook-and-android-phone-are-getting-a-new-tight-integration/
     </a>
     <br />
     <img
-      alt="Draymond Green on Warriors vs. Lakers, Steph Curry's MVP season & LeBron James | The Jump - ESPN"
+      alt="Your Chromebook and Android phone are getting a new tight integration - Android Police"
+      src="https://www.androidpolice.com/wp-content/uploads/2021/02/12/chromeosfiles_gphotos_herov2_optimized.jpg"
     />
   </li>
   <li
     aria-label="article"
   >
     <h1>
-      Netflix is getting a trilogy of Fear Street movies in July - The Verge
+      Emotional Matthew Perry on the verge of tears in 'Friends' trailer - Page Six
     </h1>
     <p>
-      Andrew Webster
+      Jaclyn Hendricks
     </p>
     <a
       href="{url}"
     >
-      https://www.theverge.com/2021/5/19/22444575/netflix-fear-street-trilogy-rl-stine-release-date
+      https://pagesix.com/2021/05/20/matthew-perry-comforted-by-jennifer-aniston-in-new-friends-trailer/
     </a>
     <br />
     <img
-      alt="Netflix is getting a trilogy of Fear Street movies in July - The Verge"
-      src="https://cdn.vox-cdn.com/thumbor/3L0VO7rwqwcQDf5SKtk7mfBrOuI=/54x0:2944x1513/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22526573/Fear_Street.jpg"
+      alt="Emotional Matthew Perry on the verge of tears in 'Friends' trailer - Page Six"
+      src="https://pagesix.com/wp-content/uploads/sites/3/2021/05/friends-matthew-perry-jennifer-aniston-75-1.jpg?quality=90&strip=all&w=1200"
     />
   </li>
   <li
     aria-label="article"
   >
     <h1>
-      Ionescu continues to live up to the hype, and it’s exactly what the WNBA needs - Deadspin
+      James Gorman shakes up top team at Morgan Stanley - Financial Times
     </h1>
     <p>
-      Jon Hoefling
+      Joshua Franklin
     </p>
     <a
       href="{url}"
     >
-      https://deadspin.com/ionescu-continues-to-live-up-to-the-hype-and-it-s-exac-1846930104
+      https://www.ft.com/content/248cbea8-6dbe-4c97-b194-e68dbe121d1f
     </a>
     <br />
     <img
-      alt="Ionescu continues to live up to the hype, and it’s exactly what the WNBA needs - Deadspin"
-      src="https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5fa7afb010977919cdc5ad9b218f10b6.jpg"
+      alt="James Gorman shakes up top team at Morgan Stanley - Financial Times"
     />
   </li>
   <li
     aria-label="article"
   >
     <h1>
-      Bitcoin, Ethereum prices fall after China reiterates ban on crypto services - CNET
+      Yankees injuries: Updates on Ryan LaMarre, Clint Frazier, Giancarlo Stanton, Zack Britton, Aaron Hicks - NJ.com
     </h1>
     <p>
-      Oscar Gonzalez
+      Randy Miller | NJ Advance Media for NJ.com
     </p>
     <a
       href="{url}"
     >
-      https://www.cnet.com/news/bitcoin-ethereum-prices-fall-after-china-reiterates-ban-on-crypto-services/
+      https://www.nj.com/yankees/2021/05/yankees-injury-updates-latest-on-ryan-lamarre-clint-frazier-giancarlo-stanton.html
     </a>
     <br />
     <img
-      alt="Bitcoin, Ethereum prices fall after China reiterates ban on crypto services - CNET"
-      src="https://www.cnet.com/a/img/lmjggg2b-9vZlAz192KiYW1rAXA=/1200x630/2021/05/19/2c0b9d64-e53f-483b-a658-47d6592a6328/gettyimages-1064373134.jpg"
+      alt="Yankees injuries: Updates on Ryan LaMarre, Clint Frazier, Giancarlo Stanton, Zack Britton, Aaron Hicks - NJ.com"
+      src="https://www.nj.com/resizer/tlvJedziKCxdL7da9bBs8tCzD9M=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/RYSIW4USJFGZTDATTGPLUJYXWE.JPG"
     />
   </li>
   <li
     aria-label="article"
   >
     <h1>
-      Incident SARS-CoV-2 Infection among mRNA-Vaccinated and Unvaccinated Nursing Home Residents - nejm.org
+      Microsoft to unplug Internet Explorer as it seeks edge in browser war - Reuters
+    </h1>
+    <p>
+      Reuters
+    </p>
+    <a
+      href="{url}"
+    >
+      https://www.reuters.com/technology/microsoft-unplug-internet-explorer-it-seeks-edge-browser-war-2021-05-20/
+    </a>
+    <br />
+    <img
+      alt="Microsoft to unplug Internet Explorer as it seeks edge in browser war - Reuters"
+      src="https://www.reuters.com/resizer/cx8Gk_UvG1q7NItXaR-vV9YfgZk=/1200x628/smart/cloudfront-us-east-2.images.arcpublishing.com/reuters/KSKPGP2WRRPTJHWHQRFR2RDNRE.jpg"
+    />
+  </li>
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Jobless claims drop more than expected for a new pandemic low - CNBC
+    </h1>
+    <p>
+      Jeff Cox
+    </p>
+    <a
+      href="{url}"
+    >
+      https://www.cnbc.com/2021/05/20/weekly-jobless-claims.html
+    </a>
+    <br />
+    <img
+      alt="Jobless claims drop more than expected for a new pandemic low - CNBC"
+      src="https://image.cnbcfm.com/api/v1/image/106882546-1620912585163-gettyimages-1232859027-05122021_PHH_JOB_FAIR_03.jpeg?v=1620912662"
+    />
+  </li>
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Boston Red Sox tell Jennifer Lopez they 'miss' her following Ben Affleck reunion, Alex Rodriguez split - Fox News
+    </h1>
+    <p>
+      Melissa Roberto
+    </p>
+    <a
+      href="{url}"
+    >
+      https://www.foxnews.com/entertainment/boston-red-sox-video-jennifer-lopez-ben-affleck-alex-rodriguez-miss-you
+    </a>
+    <br />
+    <img
+      alt="Boston Red Sox tell Jennifer Lopez they 'miss' her following Ben Affleck reunion, Alex Rodriguez split - Fox News"
+      src="https://static.foxnews.com/foxnews.com/content/uploads/2021/05/57db8ebd-affleck-lopez.jpg"
+    />
+  </li>
+  <li
+    aria-label="article"
+  >
+    <h1>
+      ‘First martyr of the voting rights movement’: How a Black man’s death in 1965 changed American history - USA TODAY
+    </h1>
+    <p>
+      Javonte Anderson
+    </p>
+    <a
+      href="{url}"
+    >
+      https://www.usatoday.com/in-depth/news/investigations/2021/05/20/george-floyd-jimmie-lee-jackson-murder-led-to-voting-rights-act/7153822002/
+    </a>
+    <br />
+    <img
+      alt="‘First martyr of the voting rights movement’: How a Black man’s death in 1965 changed American history - USA TODAY"
+      src="https://www.gannett-cdn.com/presto/2021/05/04/USAT/6e09801a-9993-4d13-a147-a188af462f8b-GettyImages-515496230.jpg?crop=4546,2558,x0,y240&width=1200"
+    />
+  </li>
+  <li
+    aria-label="article"
+  >
+    <h1>
+      'I Had Strange GI Symptoms For Years Until I Was Finally Diagnosed With Colon Cancer At 35' - Women's Health
     </h1>
     <p />
     <a
       href="{url}"
     >
-      https://www.nejm.org/doi/full/10.1056/NEJMc2104849
+      https://www.womenshealthmag.com/health/a36366953/color-cancer-symptoms-women/
     </a>
     <br />
     <img
-      alt="Incident SARS-CoV-2 Infection among mRNA-Vaccinated and Unvaccinated Nursing Home Residents - nejm.org"
-      src="https://www.nejm.org/na101/home/literatum/publisher/mms/journals/content/nejm/0/nejm.ahead-of-print/nejmc2104849/20210518/images/img_small/nejmc2104849_t1.jpeg"
+      alt="'I Had Strange GI Symptoms For Years Until I Was Finally Diagnosed With Colon Cancer At 35' - Women's Health"
+      src="https://media.hearstapps.com/hmg-prod/images/henley2-1620662330.jpg?crop=1880,940.416,x0,y2170,safe&width=1200&auto=webp&optimize=medium"
     />
   </li>
   <li
     aria-label="article"
   >
     <h1>
-      What Is This COVAX Program That The U.S. Is Pouring Millions Of Vaccines Into? - NPR
-    </h1>
-    <p />
-    <a
-      href="{url}"
-    >
-      https://www.npr.org/sections/goatsandsoda/2021/05/19/998228372/what-is-this-covax-program-that-the-u-s-is-pouring-millions-of-vaccines-into
-    </a>
-    <br />
-    <img
-      alt="What Is This COVAX Program That The U.S. Is Pouring Millions Of Vaccines Into? - NPR"
-      src="https://media.npr.org/assets/img/2021/05/19/gettyimages-1232030142_wide-83d3002eee4673442b21b4d117df3dc686099d72.jpg?s=1400"
-    />
-  </li>
-  <li
-    aria-label="article"
-  >
-    <h1>
-      Colorado officers face charges in arrest of 73-year-old with dementia | TheHill - The Hill
+      Tim Tebow signs 1-year deal with Jaguars as he looks for another NFL run - Fox News
     </h1>
     <p>
-      Lexi Lonas
+      Ryan Gaydos
     </p>
     <a
       href="{url}"
     >
-      https://thehill.com/homenews/state-watch/554420-colorado-officers-facing-charges-in-arrest-of-73-year-old-with-dementia
+      https://www.foxnews.com/sports/tim-tebow-signs-1-year-deal-jaguars
     </a>
     <br />
     <img
-      alt="Colorado officers face charges in arrest of 73-year-old with dementia | TheHill - The Hill"
-      src="https://thehill.com/sites/default/files/garnerkarenarrest_youtube_04262021.png"
+      alt="Tim Tebow signs 1-year deal with Jaguars as he looks for another NFL run - Fox News"
+      src="https://static.foxnews.com/foxnews.com/content/uploads/2018/09/PI-NFL-Green-Bay-Packers-Eagles-5-0-61b11b744e39f410VgnVCM100000d7c1a8c0____.jpg"
     />
   </li>
   <li
     aria-label="article"
   >
     <h1>
-      Apple will face a critical test when CEO Tim Cook testifies at the Epic trial - Yahoo Finance
+      The Morning After: The new M1-powered iPad Pro, reviewed - Engadget
     </h1>
     <p>
-      Daniel Howley
+      https://www.engadget.com/about/editors/mat-smith
     </p>
     <a
       href="{url}"
     >
-      https://finance.yahoo.com/news/apple-will-face-critical-test-when-tim-cook-testifies-epic-trial-201156554.html
+      https://www.engadget.com/the-morning-after-new-ipad-reviewed-112652341.html
     </a>
     <br />
     <img
-      alt="Apple will face a critical test when CEO Tim Cook testifies at the Epic trial - Yahoo Finance"
-      src="https://s.yimg.com/ny/api/res/1.2/WaBLt0TgNOqDRvaxz3qXPQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzMz/https://s.yimg.com/os/creatr-uploaded-images/2020-07/2c50dba0-d298-11ea-bff8-85c1ecfab116"
+      alt="The Morning After: The new M1-powered iPad Pro, reviewed - Engadget"
+      src="https://s.yimg.com/os/creatr-uploaded-images/2021-05/d453dc40-b950-11eb-bff3-c67be0c1631e"
     />
   </li>
   <li
     aria-label="article"
   >
     <h1>
-      Will America Embrace Ford's F-150 Lightning? A Lot's Riding On It - NPR
-    </h1>
-    <p />
-    <a
-      href="{url}"
-    >
-      https://www.npr.org/2021/05/19/998205598/can-a-battery-powered-f-150-truck-persuade-americans-to-embrace-electric-vehicle
-    </a>
-    <br />
-    <img
-      alt="Will America Embrace Ford's F-150 Lightning? A Lot's Riding On It - NPR"
-      src="https://media.npr.org/assets/img/2021/05/19/ap_21138686900880_wide-7f580f91454792cc0be65326a920b7c8f99d1d2d.jpg?s=1400"
-    />
-  </li>
-  <li
-    aria-label="article"
-  >
-    <h1>
-      Arizona GOP's election auditors backtrack on deleted database claim - NBC News
+      US cervical cancers fall but other sex-related cancers rise - Fox News
     </h1>
     <p>
-      Jane C. Timm
+      Associated Press
     </p>
     <a
       href="{url}"
     >
-      https://www.nbcnews.com/politics/elections/company-conducting-arizona-gop-s-election-audit-backtracks-deleted-database-n1267900
+      https://www.foxnews.com/health/us-cervical-cancers-fall-other-sex-related-cancers-rise
     </a>
     <br />
     <img
-      alt="Arizona GOP's election auditors backtrack on deleted database claim - NBC News"
-      src="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_20/3475984/210519-arizona-election-audit-jm-0845.jpg"
+      alt="US cervical cancers fall but other sex-related cancers rise - Fox News"
+      src="https://static.foxnews.com/foxnews.com/content/uploads/2021/05/hpv_vax_ap.jpg"
     />
   </li>
   <li
     aria-label="article"
   >
     <h1>
-      Tulsa massacre survivor at 107 years old testifies that the horror of that day never goes away - CNN 
+      Knife-wielding Florida man who allegedly tried to kidnap girl appears in court - New York Post 
     </h1>
     <p>
-      Nicole Chavez, CNN
+      Yaron Steinbuch
     </p>
     <a
       href="{url}"
     >
-      https://www.cnn.com/2021/05/19/us/tulsa-massacre-survivors-congress/index.html
+      https://nypost.com/2021/05/20/florida-man-who-allegedly-tried-to-kidnap-girl-appears-in-court/
     </a>
     <br />
     <img
-      alt="Tulsa massacre survivor at 107 years old testifies that the horror of that day never goes away - CNN "
-      src="https://cdn.cnn.com/cnnnext/dam/assets/210519141454-01-tulsa-massacre-survivors-congress-super-tease.jpg"
+      alt="Knife-wielding Florida man who allegedly tried to kidnap girl appears in court - New York Post "
+      src="https://nypost.com/wp-content/uploads/sites/2/2021/05/kidnap-florida.jpg?quality=90&strip=all&w=1200"
     />
   </li>
   <li
     aria-label="article"
   >
     <h1>
-      Microsoft will truly, finally kill off Internet Explorer in June 2022 - Engadget
+      Tardigrades can survive being shot out of a high-speed gun - Livescience.com
     </h1>
     <p>
-      https://www.engadget.com/about/editors/kris-holt
+      Yasemin Saplakoglu
     </p>
     <a
       href="{url}"
     >
-      https://www.engadget.com/microsoft-internet-explorer-end-support-2022-185823396.html
+      https://www.livescience.com/tardigrades-survive-being-shot-gun.html
     </a>
     <br />
     <img
-      alt="Microsoft will truly, finally kill off Internet Explorer in June 2022 - Engadget"
-      src="https://s.yimg.com/os/creatr-uploaded-images/2021-05/e189c430-b8d1-11eb-bf7b-fe2821fcf862"
+      alt="Tardigrades can survive being shot out of a high-speed gun - Livescience.com"
+      src="https://cdn.mos.cms.futurecdn.net/PgnTAddQ5P4uAjDNksoSVF-1200-80.jpg"
     />
   </li>
   <li
     aria-label="article"
   >
     <h1>
-      White Sox players nearing revolt against Tony La Russa - New York Post 
+      House approves January 6 commission despite GOP opposition - CBS News
     </h1>
     <p>
-      Jeremy Layton
+      Grace Segers
     </p>
     <a
       href="{url}"
     >
-      https://nypost.com/2021/05/19/tony-larussa-losing-white-sox-after-ripping-yermin-mercedes/
+      https://www.cbsnews.com/news/january-6-commission-house-approves/
     </a>
     <br />
     <img
-      alt="White Sox players nearing revolt against Tony La Russa - New York Post "
-      src="https://nypost.com/wp-content/uploads/sites/2/2021/05/tony-la-russa-tim-anderson.jpg?quality=90&strip=all&w=1200"
-    />
-  </li>
-  <li
-    aria-label="article"
-  >
-    <h1>
-      NASA Statement on China's Zhurong Mars Rover Photos - NASA
-    </h1>
-    <p />
-    <a
-      href="{url}"
-    >
-      https://www.nasa.gov/press-release/nasa-statement-on-china-s-zhurong-mars-rover-photos/
-    </a>
-    <br />
-    <img
-      alt="NASA Statement on China's Zhurong Mars Rover Photos - NASA"
-      src="http://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb_0.jpg"
-    />
-  </li>
-  <li
-    aria-label="article"
-  >
-    <h1>
-      Jalen Hurts: I’m not above competition, rent’s due every day - NBC Sports
-    </h1>
-    <p>
-      Josh Alper
-    </p>
-    <a
-      href="{url}"
-    >
-      https://profootballtalk.nbcsports.com/2021/05/19/jalen-hurts-im-not-above-competition-rents-due-every-day/
-    </a>
-    <br />
-    <img
-      alt="Jalen Hurts: I’m not above competition, rent’s due every day - NBC Sports"
-      src="https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2021/05/GettyImages-1294651108-e1621448339798.jpg"
-    />
-  </li>
-  <li
-    aria-label="article"
-  >
-    <h1>
-      Google’s new Android TV remote will live in Quick Settings on Android, Home app on iOS - 9to5Google
-    </h1>
-    <p />
-    <a
-      href="{url}"
-    >
-      https://9to5google.com/2021/05/19/google-android-tv-remote-phone-android-ios/
-    </a>
-    <br />
-    <img
-      alt="Google’s new Android TV remote will live in Quick Settings on Android, Home app on iOS - 9to5Google"
-      src="https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2021/05/google_tv_phone_remote_1.gif?resize=1200%2C628&quality=82&strip=all&ssl=1"
+      alt="House approves January 6 commission despite GOP opposition - CBS News"
+      src="https://cbsnews1.cbsistatic.com/hub/i/r/2021/05/14/bc15d0e8-1543-4c5b-af7a-a71ba57f7544/thumbnail/1200x630/f418c556dd1de6f804bf45a686094547/gettyimages-1230464979.jpg"
     />
   </li>
 </ul>
