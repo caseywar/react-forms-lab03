@@ -16,3 +16,4 @@ jobs:
     - run: npm test
       env:
         CI: true
+        api_key: ${{ secrets.api_key }}

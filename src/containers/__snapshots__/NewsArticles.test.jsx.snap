@@ -1,0 +1,754 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`News Articles Container shows a list of quotes by topic 1`] = `
+<ul
+  aria-label="articles"
+>
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Rochester Mayor Lovely Warren's husband arrested on drug and weapons charges, officials say - NBC News
+    </h1>
+    <p>
+      David K. Li, The Associated Press
+    </p>
+    <a
+      href="{url}"
+    >
+      https://www.nbcnews.com/news/us-news/home-rochester-mayor-lovely-warren-raided-state-police-officials-say-n1268023
+    </a>
+    <br />
+    <img
+      alt="Rochester Mayor Lovely Warren's husband arrested on drug and weapons charges, officials say - NBC News"
+      src="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_20/3476337/210520-lovely-warren-ONE-TIME-USE-mb-1525.jpg"
+    />
+  </li>
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Treasury Calls for Crypto Transfers Over $10000 to Be Reported to IRS - Bloomberg
+    </h1>
+    <p />
+    <a
+      href="{url}"
+    >
+      https://www.bloomberg.com/tosv2.html?vid=&uuid=8b85bdd0-b98c-11eb-9e65-9d1abfa5089f&url=L25ld3MvYXJ0aWNsZXMvMjAyMS0wNS0yMC90cmVhc3VyeS1jYWxscy1mb3ItY3J5cHRvLXRyYW5zZmVycy1vdmVyLTEwLTAwMC1yZXBvcnRlZC10by1pcnM=
+    </a>
+    <br />
+    <img
+      alt="Treasury Calls for Crypto Transfers Over $10000 to Be Reported to IRS - Bloomberg"
+    />
+  </li>
+  <li
+    aria-label="article"
+  >
+    <h1>
+      First Take reacts to the Jaguars officially signing Tim Tebow as a tight end - ESPN
+    </h1>
+    <p />
+    <a
+      href="{url}"
+    >
+      https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9UGh4MjBnSGhZc2fSAQA?oc=5
+    </a>
+    <br />
+    <img
+      alt="First Take reacts to the Jaguars officially signing Tim Tebow as a tight end - ESPN"
+    />
+  </li>
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Oatly shares soar 24% in company's public market debut on Nasdaq - CNBC
+    </h1>
+    <p>
+      Amelia Lucas
+    </p>
+    <a
+      href="{url}"
+    >
+      https://www.cnbc.com/2021/05/20/oatly-ipo-otly-starts-trading-on-nasdaq.html
+    </a>
+    <br />
+    <img
+      alt="Oatly shares soar 24% in company's public market debut on Nasdaq - CNBC"
+      src="https://image.cnbcfm.com/api/v1/image/106844195-1614089037064-gettyimages-1228558857-OATLY_IPO.jpeg?v=1614089099"
+    />
+  </li>
+  <li
+    aria-label="article"
+  >
+    <h1>
+      11-year-old girl who fought off attempted kidnapping credits 'Law and Order: SVU' for quick thinking that helped identify suspect - CNN 
+    </h1>
+    <p>
+      Dakin Andone, CNN
+    </p>
+    <a
+      href="{url}"
+    >
+      https://www.cnn.com/2021/05/20/us/florida-11-year-old-kidnapping-attempt-trnd/index.html
+    </a>
+    <br />
+    <img
+      alt="11-year-old girl who fought off attempted kidnapping credits 'Law and Order: SVU' for quick thinking that helped identify suspect - CNN "
+      src="https://cdn.cnn.com/cnnnext/dam/assets/210519140722-pensacola-kidnapping-attempt-grab-super-tease.jpg"
+    />
+  </li>
+  <li
+    aria-label="article"
+  >
+    <h1>
+      When to see the total 'flower' supermoon and catch the total lunar eclipse - CNN 
+    </h1>
+    <p>
+      Megan Marples and Ashley Strickland, CNN
+    </p>
+    <a
+      href="{url}"
+    >
+      https://www.cnn.com/2021/05/20/world/full-moon-may-total-lunar-eclipse-scn/index.html
+    </a>
+    <br />
+    <img
+      alt="When to see the total 'flower' supermoon and catch the total lunar eclipse - CNN "
+      src="https://cdn.cnn.com/cnnnext/dam/assets/210513154728-02-flower-moon-2020-file-super-tease.jpg"
+    />
+  </li>
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Corey Kluber's emotionless reaction to Yankees no-hitter stuns fans - New York Post 
+    </h1>
+    <p>
+      Jenna Lemoncelli
+    </p>
+    <a
+      href="{url}"
+    >
+      https://nypost.com/2021/05/20/corey-klubers-reaction-to-yankees-no-hitter-stuns-twitter/
+    </a>
+    <br />
+    <img
+      alt="Corey Kluber's emotionless reaction to Yankees no-hitter stuns fans - New York Post "
+      src="https://nypost.com/wp-content/uploads/sites/2/2021/05/Corey-Kluber-no-hitter-reaction.jpg?quality=90&strip=all&w=1200"
+    />
+  </li>
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Dow Jones Surges 300 Points As Bitcoin Soars 38% From Lows; Virgin Galactic Skyrockets On Test Flight News - Investor's Business Daily
+    </h1>
+    <p />
+    <a
+      href="{url}"
+    >
+      https://news.google.com/__i/rss/rd/articles/CBMilwFodHRwczovL3d3dy5pbnZlc3RvcnMuY29tL21hcmtldC10cmVuZC9zdG9jay1tYXJrZXQtdG9kYXkvZG93LWpvbmVzLXJhbGxpZXMtYXMtYml0Y29pbi1zbmFwcy1iYWNrLWZyb20tY3Jhc2gtdmlyZ2luLWdhbGFjdGljLXNvYXJzLW9uLXRlc3QtZmxpZ2h0LW5ld3Mv0gEA?oc=5
+    </a>
+    <br />
+    <img
+      alt="Dow Jones Surges 300 Points As Bitcoin Soars 38% From Lows; Virgin Galactic Skyrockets On Test Flight News - Investor's Business Daily"
+    />
+  </li>
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Sen. Bernie Sanders to introduce resolution of disapproval on $735 million U.S. arms sale to Israel - The Washington Post
+    </h1>
+    <p>
+      Jacqueline Alemany
+    </p>
+    <a
+      href="{url}"
+    >
+      https://www.washingtonpost.com/politics/2021/05/20/sen-bernie-sanders-introduce-resolution-disapproval-735-million-us-arms-sale-israel/
+    </a>
+    <br />
+    <img
+      alt="Sen. Bernie Sanders to introduce resolution of disapproval on $735 million U.S. arms sale to Israel - The Washington Post"
+      src="https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HBEUJBFJGMI6XKFHL5C53TPTMQ.jpg&w=1440"
+    />
+  </li>
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Zack Snyder: ‘I don’t have a rightwing political agenda. People see what they want to see’ - The Guardian
+    </h1>
+    <p>
+      Catherine Shoard
+    </p>
+    <a
+      href="{url}"
+    >
+      https://amp.theguardian.com/film/2021/may/20/zack-snyder-i-dont-have-a-rightwing-political-agenda-people-see-what-they-want-to-see
+    </a>
+    <br />
+    <img
+      alt="Zack Snyder: ‘I don’t have a rightwing political agenda. People see what they want to see’ - The Guardian"
+    />
+  </li>
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Lakers-Warriors: Stephen Curry compares LeBron James' winner to 2016 NBA Finals, says he's 'seen it before' - CBS Sports
+    </h1>
+    <p />
+    <a
+      href="{url}"
+    >
+      https://www.cbssports.com/nba/news/lakers-warriors-stephen-curry-compares-lebron-james-winner-to-2016-nba-finals-says-hes-seen-it-before/
+    </a>
+    <br />
+    <img
+      alt="Lakers-Warriors: Stephen Curry compares LeBron James' winner to 2016 NBA Finals, says he's 'seen it before' - CBS Sports"
+      src="https://sportshub.cbsistatic.com/i/r/2021/05/20/9b663496-9198-4614-b08e-23201758c706/thumbnail/1200x675/ca66b8a47da0d7091015551e1cc383fb/stephen-curry-warriors-lebron-james-lakers.jpg"
+    />
+  </li>
+  <li
+    aria-label="article"
+  >
+    <h1>
+      BBC's Martin Bashir used 'deceitful' methods to secure Princess Diana interview, report finds - NBC News
+    </h1>
+    <p>
+      Yuliya Talmazan
+    </p>
+    <a
+      href="{url}"
+    >
+      https://www.nbcnews.com/news/world/report-finds-bbc-s-martin-bashir-acted-deceitfully-secure-princess-n1267993
+    </a>
+    <br />
+    <img
+      alt="BBC's Martin Bashir used 'deceitful' methods to secure Princess Diana interview, report finds - NBC News"
+      src="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_20/3476327/210520-princess-diana-mn-0950_0.jpg"
+    />
+  </li>
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Google is opening its first physical retail store this summer in NYC - The Verge
+    </h1>
+    <p>
+      Chaim Gartenberg
+    </p>
+    <a
+      href="{url}"
+    >
+      https://www.theverge.com/2021/5/20/22445472/google-first-physical-retail-store-chelsea-nyc-summer-2021
+    </a>
+    <br />
+    <img
+      alt="Google is opening its first physical retail store this summer in NYC - The Verge"
+      src="https://cdn.vox-cdn.com/thumbor/OC0849UgWOiKhHCeqWe5DAtmqZg=/0x20:1000x544/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22527842/Photoshop_Blade_Sign.max_1000x1000.jpg"
+    />
+  </li>
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Microsoft to kill Internet Explorer support next year - CNET
+    </h1>
+    <p>
+      Alison DeNisco Rayome
+    </p>
+    <a
+      href="{url}"
+    >
+      https://www.cnet.com/news/microsoft-to-kill-internet-explorer-support-next-year/
+    </a>
+    <br />
+    <img
+      alt="Microsoft to kill Internet Explorer support next year - CNET"
+      src="https://www.cnet.com/a/img/xUMjx1mk4j1ipmKRJBEQO1JNvPs=/1200x630/2021/05/19/3ba28d8e-9f65-4df8-b1fc-d4e7523cd8a7/microsoft-ie-logo-flat.jpg"
+    />
+  </li>
+  <li
+    aria-label="article"
+  >
+    <h1>
+      US PGA Championship 2021: first round – live! - The Guardian
+    </h1>
+    <p>
+      Scott Murray
+    </p>
+    <a
+      href="{url}"
+    >
+      https://www.theguardian.com/sport/live/2021/may/20/us-pga-championship-2021-first-round-live-scores-updates-kiawah-island-golf
+    </a>
+    <br />
+    <img
+      alt="US PGA Championship 2021: first round – live! - The Guardian"
+      src="https://i.guim.co.uk/img/media/4b5f4e0141cf098fab6f85ede543c1396146d0f2/0_262_5437_3263/master/5437.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=039c8d8bc5ec3d97ced3c47344fee313"
+    />
+  </li>
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Bitcoin back above $40k, Dogecoin jumps on Musk tweet - Yahoo Finance
+    </h1>
+    <p>
+      Yahoo Finance Video
+    </p>
+    <a
+      href="{url}"
+    >
+      https://finance.yahoo.com/video/bitcoin-back-above-40k-dogecoin-132426570.html
+    </a>
+    <br />
+    <img
+      alt="Bitcoin back above $40k, Dogecoin jumps on Musk tweet - Yahoo Finance"
+      src="https://s.yimg.com/ny/api/res/1.2/WqpX9CHp43iNNHhwxXvUDQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMTI1/https://s.yimg.com/hd/cp-video-transcode/prod/2021-05/20/60a6630c7c85370c1c2878c3/60a6630c7c85370c1c2878c4_o_U_v2.jpg"
+    />
+  </li>
+  <li
+    aria-label="article"
+  >
+    <h1>
+      NEEDTOBREATHE - "I Wanna Remember (feat. Carrie Underwood)" [Official Video] - NEEDTOBREATHE
+    </h1>
+    <p />
+    <a
+      href="{url}"
+    >
+      https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9ZDRtaDRqcV9NWVXSAQA?oc=5
+    </a>
+    <br />
+    <img
+      alt="NEEDTOBREATHE - \\"I Wanna Remember (feat. Carrie Underwood)\\" [Official Video] - NEEDTOBREATHE"
+    />
+  </li>
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Emotional Matthew Perry on the verge of tears in 'Friends' trailer - Page Six
+    </h1>
+    <p>
+      Jaclyn Hendricks
+    </p>
+    <a
+      href="{url}"
+    >
+      https://pagesix.com/2021/05/20/matthew-perry-comforted-by-jennifer-aniston-in-new-friends-trailer/
+    </a>
+    <br />
+    <img
+      alt="Emotional Matthew Perry on the verge of tears in 'Friends' trailer - Page Six"
+      src="https://pagesix.com/wp-content/uploads/sites/3/2021/05/friends-matthew-perry-jennifer-aniston-75-1.jpg?quality=90&strip=all&w=1200"
+    />
+  </li>
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Boston Red Sox tell Jennifer Lopez they 'miss' her following Ben Affleck reunion, Alex Rodriguez split - Fox News
+    </h1>
+    <p>
+      Melissa Roberto
+    </p>
+    <a
+      href="{url}"
+    >
+      https://www.foxnews.com/entertainment/boston-red-sox-video-jennifer-lopez-ben-affleck-alex-rodriguez-miss-you
+    </a>
+    <br />
+    <img
+      alt="Boston Red Sox tell Jennifer Lopez they 'miss' her following Ben Affleck reunion, Alex Rodriguez split - Fox News"
+      src="https://static.foxnews.com/foxnews.com/content/uploads/2021/05/57db8ebd-affleck-lopez.jpg"
+    />
+  </li>
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Comment: Android smartwatches finally getting serious, and that’s great news for the Apple Watch - 9to5Mac
+    </h1>
+    <p />
+    <a
+      href="{url}"
+    >
+      https://9to5mac.com/2021/05/20/android-smartwatches-2/
+    </a>
+    <br />
+    <img
+      alt="Comment: Android smartwatches finally getting serious, and that’s great news for the Apple Watch - 9to5Mac"
+      src="https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/05/Android-smartwatches-with-Wear-OS-3.gif?resize=1200%2C628&quality=82&strip=all&ssl=1"
+    />
+  </li>
+</ul>
+`;
+
+exports[`News Articles Container shows a list of quotes by topic 2`] = `
+<input
+  id="article-name"
+  type="text"
+  value="Tesla"
+/>
+`;
+
+exports[`News Articles Container shows a list of quotes by topic 3`] = `
+Array [
+  <button
+    aria-label="controls"
+  >
+    Submit
+  </button>,
+]
+`;
+
+exports[`News Articles Container shows a list of quotes by topic 4`] = `
+Array [
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Tesla 'suspends' Bitcoin car purchases citing environmental impact
+    </h1>
+    <p>
+      https://www.engadget.com/about/editors/richard-lawler
+    </p>
+    <a
+      href="{url}"
+    />
+    <br />
+    <img
+      alt="Tesla 'suspends' Bitcoin car purchases citing environmental impact"
+    />
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Tesla's Powerwall+ is a higher-power battery for off-grid living
+    </h1>
+    <p>
+      https://www.engadget.com/about/editors/mariella-moon
+    </p>
+    <a
+      href="{url}"
+    />
+    <br />
+    <img
+      alt="Tesla's Powerwall+ is a higher-power battery for off-grid living"
+    />
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Elon Musk: Data recovered 'so far' shows Autopilot not enabled in Houston crash
+    </h1>
+    <p>
+      https://www.engadget.com/about/editors/mat-smith
+    </p>
+    <a
+      href="{url}"
+    />
+    <br />
+    <img
+      alt="Elon Musk: Data recovered 'so far' shows Autopilot not enabled in Houston crash"
+    />
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Tesla stops taking Bitcoin for vehicle purchases, citing environmental harm
+    </h1>
+    <p>
+      Sean O'Kane
+    </p>
+    <a
+      href="{url}"
+    />
+    <br />
+    <img
+      alt="Tesla stops taking Bitcoin for vehicle purchases, citing environmental harm"
+    />
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Tesla's Model S Plaid may pack a retractable spoiler
+    </h1>
+    <p>
+      https://www.engadget.com/about/editors/jon-fingas
+    </p>
+    <a
+      href="{url}"
+    />
+    <br />
+    <img
+      alt="Tesla's Model S Plaid may pack a retractable spoiler"
+    />
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Tesla grows 74% in the first quarter, besting expectations as its shares ease after-hours
+    </h1>
+    <p>
+      Alex Wilhelm
+    </p>
+    <a
+      href="{url}"
+    />
+    <br />
+    <img
+      alt="Tesla grows 74% in the first quarter, besting expectations as its shares ease after-hours"
+    />
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <h1>
+      No one behind the wheel in deadly Tesla crash Saturday night, say authorities
+    </h1>
+    <p>
+      Aria Alamalhodaei
+    </p>
+    <a
+      href="{url}"
+    />
+    <br />
+    <img
+      alt="No one behind the wheel in deadly Tesla crash Saturday night, say authorities"
+    />
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Tesla mulls cars tailored to China amid mounting criticisms
+    </h1>
+    <p>
+      Rita Liao
+    </p>
+    <a
+      href="{url}"
+    />
+    <br />
+    <img
+      alt="Tesla mulls cars tailored to China amid mounting criticisms"
+    />
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <h1>
+      The Morning After: Amazon cancels its 'Lord of the Rings' MMORPG
+    </h1>
+    <p>
+      https://www.engadget.com/about/editors/mat-smith
+    </p>
+    <a
+      href="{url}"
+    />
+    <br />
+    <img
+      alt="The Morning After: Amazon cancels its 'Lord of the Rings' MMORPG"
+    />
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Elon Musk is hosting Saturday Night Live and no this is not a joke
+    </h1>
+    <p>
+      Kim Lyons
+    </p>
+    <a
+      href="{url}"
+    />
+    <br />
+    <img
+      alt="Elon Musk is hosting Saturday Night Live and no this is not a joke"
+    />
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Elon Musk Tweets—and Crypto Markets Show Their Growing Pains
+    </h1>
+    <p>
+      Gregory Barber
+    </p>
+    <a
+      href="{url}"
+    />
+    <br />
+    <img
+      alt="Elon Musk Tweets—and Crypto Markets Show Their Growing Pains"
+    />
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Tesla wants to make every home a distributed power plant
+    </h1>
+    <p>
+      Aria Alamalhodaei
+    </p>
+    <a
+      href="{url}"
+    />
+    <br />
+    <img
+      alt="Tesla wants to make every home a distributed power plant"
+    />
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <h1>
+      NHTSA is investigating the driverless Tesla crash that killed two people
+    </h1>
+    <p>
+      Andrew J. Hawkins
+    </p>
+    <a
+      href="{url}"
+    />
+    <br />
+    <img
+      alt="NHTSA is investigating the driverless Tesla crash that killed two people"
+    />
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Shanghai Auto Show Disrupted by Protester Shouting 'Tesla Brakes Fail'
+    </h1>
+    <p>
+      Matt Novak
+    </p>
+    <a
+      href="{url}"
+    />
+    <br />
+    <img
+      alt="Shanghai Auto Show Disrupted by Protester Shouting 'Tesla Brakes Fail'"
+    />
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Elon Musk says Bitcoin no longer accepted for Tesla purchases
+    </h1>
+    <p>
+      Sasha Lekach
+    </p>
+    <a
+      href="{url}"
+    />
+    <br />
+    <img
+      alt="Elon Musk says Bitcoin no longer accepted for Tesla purchases"
+    />
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Tesla to start selling solar roof only with Powerwall battery
+    </h1>
+    <p>
+      Stan Schroeder
+    </p>
+    <a
+      href="{url}"
+    />
+    <br />
+    <img
+      alt="Tesla to start selling solar roof only with Powerwall battery"
+    />
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Elon Musk's 'SNL' appearance shows he's the face of EVs beyond Tesla
+    </h1>
+    <p>
+      Sasha Lekach
+    </p>
+    <a
+      href="{url}"
+    />
+    <br />
+    <img
+      alt="Elon Musk's 'SNL' appearance shows he's the face of EVs beyond Tesla"
+    />
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Tesla: Bitcoin sales, environmental credits boost profits
+    </h1>
+    <p>
+      https://www.facebook.com/bbcnews
+    </p>
+    <a
+      href="{url}"
+    />
+    <br />
+    <img
+      alt="Tesla: Bitcoin sales, environmental credits boost profits"
+    />
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <h1>
+      Tesla sees bitcoin as important financial tool to access cash quickly
+    </h1>
+    <p>
+      Rebecca Bellan
+    </p>
+    <a
+      href="{url}"
+    />
+    <br />
+    <img
+      alt="Tesla sees bitcoin as important financial tool to access cash quickly"
+    />
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <h1>
+      ‘SNL’ Gets Ready for Elon Musk
+    </h1>
+    <p>
+      Dave Itzkoff
+    </p>
+    <a
+      href="{url}"
+    />
+    <br />
+    <img
+      alt="‘SNL’ Gets Ready for Elon Musk"
+    />
+  </li>,
+]
+`;
